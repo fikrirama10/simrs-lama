@@ -1,0 +1,95 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
+html,body {height: 100%;font-size:12px;background-color:#fff;}
+canvas{width:100%;}
+
+.formright{text-align:right; line-height:40px;}
+.hw{width:100%; text-indent:10px; height:60px; margin-top:70px; text-align:center; border:1px solid transparent; letter-spacing: 12px; font-size:45px;}
+.wrap {min-height: 100%;height: auto;margin: 0 auto -60px;padding: 0 0 60px;}
+.wrap > .container {padding: 70px 15px 20px;}
+.footer {height: 60px;background-color: #f5f5f5;border-top: 1px solid #ddd;padding-top: 20px;}
+.jumbotron {text-align: center;background-color: transparent;}
+.jumbotron .btn {font-size: 21px;padding: 14px 24px;}
+.not-set {color: #c55;font-style: italic;}
+/* add sorting icons to gridview sort links */
+a.asc:after, a.desc:after {position: relative;top: 1px;display: inline-block;font-family: 'Glyphicons Halflings';font-style: normal;font-weight: normal;line-height: 1;padding-left: 5px;}
+a.asc:after {content: /*"\e113"*/ "\e151";}
+a.desc:after {content: /*"\e114"*/ "\e152";}
+.sort-numerical a.asc:after {content: "\e153";}
+.sort-numerical a.desc:after {content: "\e154";}
+.sort-ordinal a.asc:after {content: "\e155";}
+.sort-ordinal a.desc:after {content: "\e156";}
+.grid-view th {white-space: nowrap;}
+.disabel{display:none;}
+.blok{display: block;}
+
+.pt-10{margin-top:10px;}
+.mbtb10{margin-bottom:10px;}
+.vertical-text {
+	transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+.select2-container .select2-selection--single .select2-selection__rendered {
+
+    padding-left: 0;
+    padding-right: 0;
+    height: auto;
+    margin-top: 0px;
+
+}
+.mcutni-form{
+	background:red;
+}
+.pdd10{margin-bottom:20px;}
+.ic{-webkit-box-shadow: -1px 3px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 3px 5px 0px rgba(0,0,0,0.75);
+box-shadow: -1px 3px 5px 0px rgba(0,0,0,0.75); background:#fff; line-height:;}
+.icf{font-size:40px; color:#b2b3b7;}
+.cs img{display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-top:20px;
+    width: 50%;
+	}
+.iic img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+	
+}
+.login-page{background-color:#fff;}
+.login-logo{padding:20px;}
+.login-box{background-color:#555;}
+.login-box-body{background-color:#eee;}
+
+.hint-block {display: block;margin-top: 5px;color: #999;}
+.error-summary {color: #a94442;background: #fdf7f7;border-left: 3px solid #eed3d7;padding: 10px 20px;margin: 0 0 15px 0;}
+img{width:100%;}
+/* Pasien view*/
+.nama_pasien{font-size:20px; color:#000; font-family:open sans; line-height:50px;}
+.jenis_kelamin{font-size:15px;  color:#000; font-family:open sans;  line-height:10px;}
+.gol_darah{ border-right:1px solid #eee; line-height:30px; padding-top:30px;}
+.bt10{border-bottom:1px solid #eee; padding-bottom:10px;padding-top:10px;}
+/* override typography */
+h1{font-size:24px;}
+h2{font-size:22px;}
+h3{font-size:20px;}
+h4{font-size:18px;}
+h5{font-size:16px;}
+h6{font-size:14px;}
+
+/*override admin-lte */
+.skin-green-light{font-family:Tahoma;font-size:11px;}
+.skin-green-light .breadcrumb li{font-size:10px;}
+.mbot10{margin-bottom:10px;}
+.tb-grid{max-width:150px;}
+.div-label{padding-top:10px; font-size:13px;}
+.content-preview{font-size:12px;}
+.form-control{font-size:11px;}
+.skin-green-light .sidebar-menu li{border-bottom:1px dotted #DBDBDB;background-color:#EBEBEB;}
+.skin-green-light .sidebar-menu li span{font-weight:normal;font-size:12px;}
+.skin-green-light .sidebar-menu li .active{background-color:#DBE7FB;}
+.skin-green-light .treeview-menu li{background-color:#fff;border-bottom:1px dotted #eee;padding-left:20px;}
+.skin-green-light .treeview-menu li span, .skin-green-light .treeview-menu li a:link{font-size:11px;}
+
+

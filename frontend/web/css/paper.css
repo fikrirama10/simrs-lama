@@ -1,0 +1,306 @@
+.antrian {font-size:20px; margin-bottom:10px; text-align:center;}
+.noantrian {font-size:30px; text-align:center;}
+.noanrti{text-align:center;}
+/* SEP */
+table td, table td * {
+    vertical-align: top;
+}
+.olab{width:100%; }
+.olab th {
+    text-align: center;
+	font-size:12px;
+	 border:1px solid;
+	 height:20px;
+	  line-height:10px;
+}
+
+.lih td{line-height:21px;}
+
+.olab td {
+	font-size:12px;
+	text-indent:20px;
+	 border-left:1px solid;
+	 border-right:1px solid;
+	 padding:7px;
+}
+.border0{
+	 border-left:1px solid #fff;
+	 border-right:1px solid #fff;
+}
+.olab table {
+    width: 100%;
+    border:1px solid;
+    border-collapse: collapse;
+}
+.trx{width:100%; }
+.trx th {
+    text-align: center;
+	font-size:12px;
+	 border:1px solid;
+	 height:20px;
+}
+.rmedis2{width:100%; font-size:17px; text-align:left;  letter-spacing:5px;  }
+
+.trx td {
+    text-align: center;
+	font-size:11px;
+	 border:1px solid;
+	 height:10px;
+	 line-height:10px;
+}
+.trx table {
+    width: 100%;
+    border-collapse: collapse;
+    border:1px solid;
+}
+.trx img{width:100%;}
+ 
+.klpcm{width:100%; }
+.klpcm th {
+    text-align: center;
+	font-size:16px;
+	 border:1px solid;
+	 height:40px;
+	 text-transform:UPPERCASE;
+	 padding-left:10px;
+	 padding-right:10px;
+}
+
+.klpcm td {
+	text-transform:UPPERCASE;
+    text-align: left;
+	font-size:13px;
+	 border:1px solid;
+	 line-height:15px;
+}
+.klpcm table {
+    width: 100%;
+    border-collapse: collapse;
+    border:1px solid;
+	
+
+}
+.klpcm img{width:100%;}
+ .pengunjungg{width:100%;}
+.pengunjungg th {
+    text-align: center;
+	font-size:13px;
+	 border:1px solid;
+	 height:30px;
+}
+.pengunjungg table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.pengunjungg table tr{
+    text-align: center;	
+	height:20px;
+}
+.pengunjungg table td{
+    text-align: center;
+	font-size:12px;
+	 border:1px solid;
+}
+/*HAsil Lab*/
+.pengunjung{width:100%; border:1px solid;}
+.pengunjung th {
+    text-align: center;
+	font-size:15px;
+	 border:1px solid;
+	 height:50px;
+}
+.pengunjung table {
+    width: 100%;
+    border-collapse: collapse;
+    border:1px solid;
+}
+.pengunjung table tr td{
+    text-align: center;
+	font-size:15px;
+	 border:1px solid;
+}
+.ket-kunjungan th {
+    text-align: center;
+	font-size:15px;
+	
+}
+.ket-kunjungan table {
+    width: 85%;
+    border-collapse: collapse;
+   
+}
+.ket-kunjungan table tr td{
+    text-align: left;
+	font-size:15px;
+	
+}
+.ket-kunjungan{width:50%; margin-top:20px;  font-size:16px ;float:left; }
+.ttd-kunjungan{width:30%;  text-align:center; margin-top:20px;  font-size:16px ;float:right; }
+.header-kunjungan{width:100%;  float:left; margin-bottom:20px;}
+.judul-kunjungan{width:100%;  float:left; text-decoration:bold; text-align:center; font-size:16px; margin-bottom:30px; text-transform:UPPERCASE;}
+.judul-klpcm{width:100%;  float:left; text-decoration:bold; text-align:center; font-size:20px; margin-bottom:30px; text-transform:UPPERCASE;}
+.header-kunjungan-judul{width:30%; float: left; text-align:center; }
+.header-kunjungan-judul-au{width:70%;  border-bottom:1px solid;  float: left; font-size:16px;}
+.header-kunjungan-logo{width:18%;margin-right:20px; text-align:justify; font-size:16px; float: right; border-bottom: 1px solid; }
+.header-lab{width:100%;  float:left;}
+.body-lab{width:100%;  float:left; border-bottom: 2px solid;}
+.body-lab table tr td{font-size: 15px; height:10px;}
+.header-lab-logo{width:40%; border: 0px solid; float: right;}
+.header-lab-logo img{width:100%; padding-left:5px; }
+.header-lab-judul-au{width:70%; float: left;border-bottom: 1px solid; padding-left:-25px; padding-bottom:10px; padding-right:-25px;  font-size:13px;}
+.header-lab-judul-pasien{width:100%; float: left; font-size:15px;	}
+.header-lab-judul-pasien td{font-size:18px ;}
+.nolborder{border: 1px solid #000; line-height: 0px;}
+.header-lab-judul{width:50%; float: left; text-align:center; }
+.lab-body-hasil tr:nth-child(even) {background-color: #f2f2f2;}
+.lab-body-hasil th {
+    text-align: left;
+}
+.lab-body-hasil table {
+    width: 100%;
+    border-collapse: collapse;
+    border:1px solid;
+}
+
+.lab-body-hasil th {
+    height: 0px;
+}
+u {    
+    border-bottom: 2px dotted #000;
+    text-decoration: none;
+	font-style: italic;
+}
+/**/
+html,body {height: 100%;font-size:12px;background-color:#fff;font-family:Tahoma}
+/* override typography */
+h1{font-size:24px;}
+h2{font-size:22px;}
+h3{font-size:16px; text-decoration: none;}
+h4{font-size:14px;}
+.h4{font-size:14px;}
+h5{font-size:12px; font-weight:none;}
+h6{font-size:10px;}
+label{font-family:'Open Sans',sans-serif;font-weight:300;}
+ .hea0{width:100%; float:left; }
+ .hea01{width:100%; float:left; text-align:center; LINE-HEIGHT:20px; }
+  .hea1{width:50%; float:left; TEXT-INDENT:7PX; LINE-HEIGHT:20px;}
+  .headd1{width:45%; float:left; TEXT-INDENT:7PX; LINE-HEIGHT:20px; margin-left:10px;}
+  .hea11{width:50%; float:left;}
+.harad{width:100%; float:left; border:1px dotted; line-height:15px; padding:0px 10px 0px 10px; font-size:12px;}
+.headerrad{width:100%; border-bottom:1px solid #000;}
+.unitrad{width:32%; border:1px solid; float:left; font-size:10px; margin-left:10px; padding-left:10px; padding-top:13px; padding-bottom:14px;}
+.unitrad2{width:30%; border:1px solid; float:left; font-size:12px; margin-left:10px; padding-left:10px; padding-top:25px; padding-bottom:14px;}
+
+.drtyh{width:52%;float:right; font-weight:bold; line-height:15px;  font-size:13px; padding-top:1px;}
+.drtyh2{width:52%;float:right; padding-left:20px; font-weight:bold; line-height:10px;  font-size:11px; padding-top:1px;}
+.logorad img{width:100%; padding-left:5px;}
+.logorad{width:10%;float:left;}
+.logorad2 img{width:100%; padding-left:5px;}
+.logorad2{width:10%;float:left; margin-bottom:15px;}
+.drdevi img{width:100%; padding-right:15px; }
+.drdevi{width:30%;   position: absolute; top: 600px; right:-10px; text-align:center;}
+.kepada{text-indent:30px;}
+.orad{width:100%; border-bottom:1px solid; }
+.orad th {
+    text-align: center;
+	font-size:12px;
+	height:10px;
+	line-height:10px;
+}
+
+.orad td {
+	font-size:10px;
+	padding:5px;
+}
+.orad table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.header1{width:100%; border-bottom:1px solid #000;}
+.logo{width:12%;  float:left;}
+.logo img{width:100%; padding-left:5px;}
+.header2{width:50%; margin-left:30px; height:120px; float:left;}
+.headerbr{width:30%; margin-left:30px; height:120px; float:left;}
+.bodi{width:100%;}
+.npa{width:50%;  border:1px solid; float:left; padding-left:5px;}
+.npd{width:23.4%; border:1px solid; float:left; padding-left:5px;}
+.npo{width:32.3%; border-top:0px; border:1px solid; float:left; padding-left:5px;}
+.alamat{width:45%; border-right:1px solid; float:left; padding-left:5px;}
+.keyakinan{width:28.1%; border-right:1px solid; float:left; padding-top:3px; padding-left:5px;}
+.keyakinan h5{text-align:center;}
+
+.agama{width:24%; border:1px solid; float:left; padding-left:5px;}
+.rawat{width:50%; border-left:1px solid; border-right:1px solid; border-top:1px solid; float:left; padding-left:5px;}
+.daftar{width:48%; height:93px; border-right:1px solid; border-top:1px solid; float:left; padding-left:5px;}
+.npd2{width:23.95%; border:1px solid; float:left; padding-left:5px;}
+.ttl{width:50%; float:left; border:1px solid; padding-left:5px;}
+.hub{width:48%; float:left; border-top:1px solid; border-bottom:1px solid;border-right:1px solid; padding-left:5px;}
+.ttd{width:30%; margin-top:50px; float:right; padding-left:5px;}
+.ttd2{width:40%; margin-top:50px; float:right; padding-left:5px;}
+/* paperize page */
+.namap{font-size:30px;}
+.rawatlb{font-size:10px;}
+.nama{width:100%; font-size:10px; padding-bottom:3px; padding-left:20px; margin-bottom:2px; PADDING-TOP:20PX;}
+.nama2{width:100%; font-size:11px; PADDING-TOP:5PX; }
+.rmedis{width:100%; font-size:13px; text-align:center; margin-bottom:10px;  letter-spacing:5px;  }
+.barcd{float:right; text-align:center; margin-top:0px; margin-bottom:40px;}
+.barcdc{text-align:center; margin-bottom:10px;}
+.tgldaf{float:right; text-align:center; font-size:7; padding-top:5px;}
+.judul{width:100%; padding-left:20px; padding-top:0px;}
+.judul2{width:100%; padding-top:15px; text-align:right; font-size:10px;}
+.cntr{text-align:center; padding-top:7px; font-size:12px;}
+.rm{width:100%; font-size:10px;}
+.rmt{width:100%; text-align:center;font-size:13px; letter-spacing: 6px;}
+.dokter{width:100%; font-size:10px; padding-top:0px;}
+.tgllahir{width:100%; float:left; margin-bottom:5px; }
+.paper{margin:0;left:0;}
+.a4 {width: 21cm;height: 29.7cm;color:#666;}
+.a4-landscape{width:29.7cm;height:21cm;colr:#666;padding-top:3mm;}
+.a4-logo{max-height:1cm;}
+.a4-footnote{font-size:8px;}
+.row{clear:both;}
+.text-center{text-align:center;}
+.inv-date{float:left;width:20%;}
+.inv-logo{float:right;text-align:right;}
+.inv-customer{float:left;width:5.5cm;padding-top:30px;}
+.inv-identity{float:right;width:5.5cm;text-align:right;}
+.inv-table{width:100%;border:1px solid #eee;border-collapse: collapse;}
+.inv-tb-header td{border:1px solid #eee;background-color:#eee;height:40px;padding-left:20px;padding-right:10px;color:#666;}
+.inv-row td{border-bottom:1px solid #eee;padding:10px 10px 10px 20px;height:20px;color:#545454;}
+.inv-tb-subrow{color:#A7A7A7;font-weight:300;}
+.inv-tb-timestamp{color:#A7A7A7;font-size:80%;}
+.inv-tb-footer td{border-bottom:1px solid #eee;padding:10px 10px 5px 20px;height:20px;color:#545454;background-color:#eee;}
+.inv-tb-footer .td-label{border-left:1px solid #eee;}
+.bbui{border: 1px solid #ddd;}
+.lapo table,td,th {    
+   
+    text-align: left;
+}
+
+.lapo table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.lapo th,td {
+	
+    padding: 15px;
+}
+/* own typography */
+.bold{font-weight:bold;}
+.gray{color:#aaa;}
+.smoothdark{color:#545454;}
+.violet{color:#BB9292;}
+.orange{color:#FB6700;}
+.pink{color:#D4183F;}
+.blue{color:#4487EC;}
+.green{color:#B7CA29;}
+.white{color:#fff;}
+.dark{color:#434343;}
+.nobottom{margin-bottom:0px;}
+.thin{font-weight:300;}
+.bg-grn{background-color:#B7CA29;color:#fff;padding:3mm;}
+.text-center{text-align:center;}
+.text-right{text-align:right;}
+

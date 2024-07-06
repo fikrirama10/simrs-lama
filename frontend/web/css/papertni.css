@@ -1,0 +1,90 @@
+html,
+body {
+    height: 100%;
+    font-size: 12px;
+    background-color: #fff;
+    font-family: Times New Roman
+}
+
+.hea0 {
+    width: 100%;
+    float: left;
+    font-size: 10px;
+}
+
+.hea01 {
+    width: 100%;
+    float: left;
+    text-align: center;
+    LINE-HEIGHT: 20px;
+}
+
+.hea1 {
+    width: 50%;
+    float: left;
+    TEXT-INDENT: 7PX;
+    LINE-HEIGHT: 20px;
+}
+
+.hea1r {
+    width: 30%;
+    float: left;
+    TEXT-INDENT: 7PX;
+    LINE-HEIGHT: 20px;
+}
+
+.hea11 {
+    width: 50%;
+    float: left;
+}
+
+.perik {
+    width: 100%;
+    margin-top: 10px;
+    border-top: 3px solid;
+    font-size: 14px;
+    float: left;
+    max-height: 10px;
+}
+
+.perik11 {
+    width: 30%;
+    float: left;
+    text-align: right;
+}
+
+.perik1 {
+    width: 30%;
+    float: left;
+    text-align: right;
+    line-height: 24px;
+}
+
+.perik2 {
+    width: 60%;
+    float: left;
+    margin-left: 10px;
+    text-align: justify;
+    line-height: 24px;
+}
+
+.perik3 {
+    width: 60%;
+    float: left;
+    margin-left: 10px;
+}
+
+.lebih {
+    width: 100%;
+    float: left;
+    height: 115px;
+}
+
+.harad {
+    width: 100%;
+    float: left;
+    border: 1px dotted;
+    line-height: 15px;
+    padding: 0px 10px 0px 10px;
+    font-size: 12px;
+}

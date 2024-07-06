@@ -1,0 +1,1002 @@
+[16-Dec-2021 23:31:08 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[16-Dec-2021 23:31:13 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[16-Dec-2021 23:31:36 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[16-Dec-2021 23:34:54 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[16-Dec-2021 23:34:59 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[16-Dec-2021 23:36:14 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[16-Dec-2021 23:37:30 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[16-Dec-2021 23:40:05 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[16-Dec-2021 23:43:56 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[16-Dec-2021 23:52:47 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[16-Dec-2021 23:52:50 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[16-Dec-2021 23:52:57 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[16-Dec-2021 23:53:06 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[16-Dec-2021 23:53:47 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[16-Dec-2021 23:55:13 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[16-Dec-2021 23:55:17 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[16-Dec-2021 23:55:27 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[16-Dec-2021 23:55:50 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[16-Dec-2021 23:56:11 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[16-Dec-2021 23:59:18 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:00:14 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:00:16 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:00:45 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:01:13 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:01:26 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:01:27 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:01:28 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:01:28 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:01:29 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:01:29 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:01:31 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:01:46 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:01:56 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:02:53 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:02:54 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:02:55 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:02:55 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:02:56 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:04:24 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:04:24 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:06:22 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:06:34 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/DataColumn.php(24): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Dat...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Dat...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Container. in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/DataColumn.php on line 24
+[17-Dec-2021 00:07:13 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:07:16 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:07:17 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:07:20 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:07:21 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:07:22 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:07:24 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:07:25 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:07:26 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:08:54 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:09:37 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:10:06 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:10:11 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:10:16 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:45:02 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:51:35 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:51:38 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:55:16 UTC] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/u5053707/public_html/simrs/backend/controllers/PasienController.php on line 1223. in /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/u5053707/public_html/simrs/backend/controllers/PasienController.php on line 1223. in /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/u5053707/public_html/simrs/backend/web/index.php(18): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/usr/local/bin:/bin:/usr/bin',
+    'HTTP_ACCEPT' => '*/*',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8',
+    'HTTP_COOKIE' => 'wschkid=63b556c2dc0b852c15ff323dfbc87c38d7827f49.1639638300.1; _identity-backend=bcb2244bad61f9ac5c40ac670345e8943608efc970c732593fb579570dc25eafa%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A48%3A%22%5B121%2C%22R-GEE2xwVhZaXTORwCGGBNQNJwVKPWdz%22%2C2592000%5D%22%3B%7D; _csrf-backend=ae16fdbac37762cab165c3a73a0ace8c6b26561ccb6b167316f51be6489a9908a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22AOhUBzx_yodsC8QLzv5UZUHR5RoA5UhB%22%3B%7D; ppid-backend=be0db43a3ffe8539cfcf18bccaf987fe; _csrf-frontend=6fa8d7a2cd5830f63265c7f7113891e87d4383cf817fd18fb8481f20a5088f2ea%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22-vCHkXweaIns5SVuL61ku5kdP7mp1EIc%22%3B%7D',
+    'HTTP_HOST' => 'simrs.rsausulaiman.com',
+    'HTTP_REFERER' => 'https://simrs.rsausulaiman.com/dashboard/pasien/37040',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36',
+    'HTTP_SEC_CH_UA' => '" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"',
+    'HTTP_X_CSRF_TOKEN' => 'DPzWe50FZuqhNO9R80GqZ4X63yl4Nixyj3EcYCG6H1hNs74u338etdhbiyKwefsr_4zqfCJjZCC6I3MhFO93Gg==',
+    'HTTP_SEC_CH_UA_MOBILE' => '?0',
+    'HTTP_X_REQUESTED_WITH' => 'XMLHttpRequest',
+    'HTTP_SEC_CH_UA_PLATFORM' => '"Windows"',
+    'HTTP_SEC_FETCH_SITE' => 'same-origin',
+    'HTTP_SEC_FETCH_MODE' => 'cors',
+    'HTTP_SEC_FETCH_DEST' => 'empty',
+    'DOCUMENT_ROOT' => '/home/u5053707/public_html/simrs',
+    'REMOTE_ADDR' => '125.164.23.141',
+    'REMOTE_PORT' => '12759',
+    'SERVER_ADDR' => '153.92.10.54',
+    'SERVER_NAME' => 'simrs.rsausulaiman.com',
+    'SERVER_ADMIN' => 'webmaster@simrs.rsausulaiman.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_SCHEME' => 'https',
+    'REQUEST_URI' => '/dashboard/pasien/listdok?id=5',
+    'REDIRECT_URL' => '/dashboard/pasien/listdok',
+    'REDIRECT_QUERY_STRING' => 'id=5',
+    'REDIRECT_REQUEST_METHOD' => 'GET',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP3',
+    'SSL_PROTOCOL' => 'QUIC',
+    'SSL_CIPHER' => 'TLS_AES_128_GCM_SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/u5053707/public_html/simrs/backend/web/index.php',
+    'QUERY_STRING' => 'id=5',
+    'SCRIPT_URI' => 'https://simrs.rsausulaiman.com/dashboard/pasien/listdok',
+    'SCRIPT_URL' => '/dashboard/pasien/listdok',
+    'SCRIPT_NAME' => '/backend/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/backend/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1639702516.3677260875701904296875,
+    'REQUEST_TIME' => 1639702516,
+    'argv' => [
+        'id=5',
+    ],
+    'argc' => 1,
+]
+[17-Dec-2021 00:56:17 UTC] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/u5053707/public_html/simrs/backend/controllers/PasienController.php on line 1223. in /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/u5053707/public_html/simrs/backend/controllers/PasienController.php on line 1223. in /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/u5053707/public_html/simrs/backend/web/index.php(18): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/usr/local/bin:/bin:/usr/bin',
+    'HTTP_ACCEPT' => '*/*',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8',
+    'HTTP_COOKIE' => '_identity-backend=bcb2244bad61f9ac5c40ac670345e8943608efc970c732593fb579570dc25eafa%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A48%3A%22%5B121%2C%22R-GEE2xwVhZaXTORwCGGBNQNJwVKPWdz%22%2C2592000%5D%22%3B%7D; _csrf-backend=5a3407d6979cdc9bcacfa323689bf04f59823b97f6b6ff8291cef97821644b6ea%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22pGIXv3n0wALYEn6r47e47CVAfdABgrhV%22%3B%7D; ppid-backend=38de5e32b0ac85c5ccbdde5379e7b1b4',
+    'HTTP_HOST' => 'simrs.rsausulaiman.com',
+    'HTTP_REFERER' => 'https://simrs.rsausulaiman.com/dashboard/pasien/37396',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36',
+    'HTTP_SEC_CH_UA' => '" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"',
+    'HTTP_DNT' => '1',
+    'HTTP_X_CSRF_TOKEN' => 'WoacrNA1urBOuiwcd047LUF51Zk2qYG4PrDFWO7O16oqwdX0pgbUgDn7YEUyIA1fdU6wrQHq1_lY1IQaiby__A==',
+    'HTTP_SEC_CH_UA_MOBILE' => '?0',
+    'HTTP_X_REQUESTED_WITH' => 'XMLHttpRequest',
+    'HTTP_SEC_CH_UA_PLATFORM' => '"Windows"',
+    'HTTP_SEC_FETCH_SITE' => 'same-origin',
+    'HTTP_SEC_FETCH_MODE' => 'cors',
+    'HTTP_SEC_FETCH_DEST' => 'empty',
+    'DOCUMENT_ROOT' => '/home/u5053707/public_html/simrs',
+    'REMOTE_ADDR' => '125.164.20.157',
+    'REMOTE_PORT' => '22924',
+    'SERVER_ADDR' => '153.92.10.54',
+    'SERVER_NAME' => 'simrs.rsausulaiman.com',
+    'SERVER_ADMIN' => 'webmaster@simrs.rsausulaiman.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_SCHEME' => 'https',
+    'REQUEST_URI' => '/dashboard/pasien/listdok?id=1',
+    'REDIRECT_URL' => '/dashboard/pasien/listdok',
+    'REDIRECT_QUERY_STRING' => 'id=1',
+    'REDIRECT_REQUEST_METHOD' => 'GET',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP3',
+    'SSL_PROTOCOL' => 'QUIC',
+    'SSL_CIPHER' => 'TLS_AES_128_GCM_SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/u5053707/public_html/simrs/backend/web/index.php',
+    'QUERY_STRING' => 'id=1',
+    'SCRIPT_URI' => 'https://simrs.rsausulaiman.com/dashboard/pasien/listdok',
+    'SCRIPT_URL' => '/dashboard/pasien/listdok',
+    'SCRIPT_NAME' => '/backend/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/backend/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1639702577.1817190647125244140625,
+    'REQUEST_TIME' => 1639702577,
+    'argv' => [
+        'id=1',
+    ],
+    'argc' => 1,
+]
+[17-Dec-2021 00:56:44 UTC] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/u5053707/public_html/simrs/backend/controllers/PasienController.php on line 1223. in /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/u5053707/public_html/simrs/backend/controllers/PasienController.php on line 1223. in /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/u5053707/public_html/simrs/backend/web/index.php(18): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/usr/local/bin:/bin:/usr/bin',
+    'HTTP_ACCEPT' => '*/*',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8',
+    'HTTP_COOKIE' => 'wschkid=63b556c2dc0b852c15ff323dfbc87c38d7827f49.1639638300.1; _identity-backend=bcb2244bad61f9ac5c40ac670345e8943608efc970c732593fb579570dc25eafa%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A48%3A%22%5B121%2C%22R-GEE2xwVhZaXTORwCGGBNQNJwVKPWdz%22%2C2592000%5D%22%3B%7D; _csrf-backend=ae16fdbac37762cab165c3a73a0ace8c6b26561ccb6b167316f51be6489a9908a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22AOhUBzx_yodsC8QLzv5UZUHR5RoA5UhB%22%3B%7D; ppid-backend=be0db43a3ffe8539cfcf18bccaf987fe; _csrf-frontend=6fa8d7a2cd5830f63265c7f7113891e87d4383cf817fd18fb8481f20a5088f2ea%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22-vCHkXweaIns5SVuL61ku5kdP7mp1EIc%22%3B%7D',
+    'HTTP_HOST' => 'simrs.rsausulaiman.com',
+    'HTTP_REFERER' => 'https://simrs.rsausulaiman.com/dashboard/pasien/35771',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36',
+    'HTTP_SEC_CH_UA' => '" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"',
+    'HTTP_X_CSRF_TOKEN' => '6kzTfNMOxOHCEeE3r3naw69HLcOBRAQ0KqI2flPkxJerA7spkXS8vrt-hUTsQYuP1TEYltsRTGYf8Fk_ZrGs1Q==',
+    'HTTP_SEC_CH_UA_MOBILE' => '?0',
+    'HTTP_X_REQUESTED_WITH' => 'XMLHttpRequest',
+    'HTTP_SEC_CH_UA_PLATFORM' => '"Windows"',
+    'HTTP_SEC_FETCH_SITE' => 'same-origin',
+    'HTTP_SEC_FETCH_MODE' => 'cors',
+    'HTTP_SEC_FETCH_DEST' => 'empty',
+    'DOCUMENT_ROOT' => '/home/u5053707/public_html/simrs',
+    'REMOTE_ADDR' => '125.164.23.141',
+    'REMOTE_PORT' => '30139',
+    'SERVER_ADDR' => '153.92.10.54',
+    'SERVER_NAME' => 'simrs.rsausulaiman.com',
+    'SERVER_ADMIN' => 'webmaster@simrs.rsausulaiman.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_SCHEME' => 'https',
+    'REQUEST_URI' => '/dashboard/pasien/listdok?id=5',
+    'REDIRECT_URL' => '/dashboard/pasien/listdok',
+    'REDIRECT_QUERY_STRING' => 'id=5',
+    'REDIRECT_REQUEST_METHOD' => 'GET',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP3',
+    'SSL_PROTOCOL' => 'QUIC',
+    'SSL_CIPHER' => 'TLS_AES_128_GCM_SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/u5053707/public_html/simrs/backend/web/index.php',
+    'QUERY_STRING' => 'id=5',
+    'SCRIPT_URI' => 'https://simrs.rsausulaiman.com/dashboard/pasien/listdok',
+    'SCRIPT_URL' => '/dashboard/pasien/listdok',
+    'SCRIPT_NAME' => '/backend/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/backend/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1639702604.6395909786224365234375,
+    'REQUEST_TIME' => 1639702604,
+    'argv' => [
+        'id=5',
+    ],
+    'argc' => 1,
+]
+[17-Dec-2021 00:58:05 UTC] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/u5053707/public_html/simrs/backend/controllers/PasienController.php on line 1223. in /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/u5053707/public_html/simrs/backend/controllers/PasienController.php on line 1223. in /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/u5053707/public_html/simrs/backend/web/index.php(18): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/usr/local/bin:/bin:/usr/bin',
+    'HTTP_ACCEPT' => '*/*',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8',
+    'HTTP_COOKIE' => 'wschkid=63b556c2dc0b852c15ff323dfbc87c38d7827f49.1639638300.1; _identity-backend=bcb2244bad61f9ac5c40ac670345e8943608efc970c732593fb579570dc25eafa%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A48%3A%22%5B121%2C%22R-GEE2xwVhZaXTORwCGGBNQNJwVKPWdz%22%2C2592000%5D%22%3B%7D; _csrf-backend=ae16fdbac37762cab165c3a73a0ace8c6b26561ccb6b167316f51be6489a9908a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22AOhUBzx_yodsC8QLzv5UZUHR5RoA5UhB%22%3B%7D; ppid-backend=be0db43a3ffe8539cfcf18bccaf987fe; _csrf-frontend=6fa8d7a2cd5830f63265c7f7113891e87d4383cf817fd18fb8481f20a5088f2ea%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22-vCHkXweaIns5SVuL61ku5kdP7mp1EIc%22%3B%7D',
+    'HTTP_HOST' => 'simrs.rsausulaiman.com',
+    'HTTP_REFERER' => 'https://simrs.rsausulaiman.com/dashboard/pasien/36128',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36',
+    'HTTP_SEC_CH_UA' => '" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"',
+    'HTTP_X_CSRF_TOKEN' => '8VUoL8eI1pf3oswD6DX1u9C-ipZW9scoixorxwXsXQqwGkB6hfKuyI7NqHCrDaT3qsi_wwyjj3q-SESGMLk1SA==',
+    'HTTP_SEC_CH_UA_MOBILE' => '?0',
+    'HTTP_X_REQUESTED_WITH' => 'XMLHttpRequest',
+    'HTTP_SEC_CH_UA_PLATFORM' => '"Windows"',
+    'HTTP_SEC_FETCH_SITE' => 'same-origin',
+    'HTTP_SEC_FETCH_MODE' => 'cors',
+    'HTTP_SEC_FETCH_DEST' => 'empty',
+    'DOCUMENT_ROOT' => '/home/u5053707/public_html/simrs',
+    'REMOTE_ADDR' => '125.164.16.20',
+    'REMOTE_PORT' => '13251',
+    'SERVER_ADDR' => '153.92.10.54',
+    'SERVER_NAME' => 'simrs.rsausulaiman.com',
+    'SERVER_ADMIN' => 'webmaster@simrs.rsausulaiman.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_SCHEME' => 'https',
+    'REQUEST_URI' => '/dashboard/pasien/listdok?id=5',
+    'REDIRECT_URL' => '/dashboard/pasien/listdok',
+    'REDIRECT_QUERY_STRING' => 'id=5',
+    'REDIRECT_REQUEST_METHOD' => 'GET',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP3',
+    'SSL_PROTOCOL' => 'QUIC',
+    'SSL_CIPHER' => 'TLS_AES_128_GCM_SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/u5053707/public_html/simrs/backend/web/index.php',
+    'QUERY_STRING' => 'id=5',
+    'SCRIPT_URI' => 'https://simrs.rsausulaiman.com/dashboard/pasien/listdok',
+    'SCRIPT_URL' => '/dashboard/pasien/listdok',
+    'SCRIPT_NAME' => '/backend/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/backend/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1639702685.2732670307159423828125,
+    'REQUEST_TIME' => 1639702685,
+    'argv' => [
+        'id=5',
+    ],
+    'argc' => 1,
+]
+[17-Dec-2021 00:58:08 UTC] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/u5053707/public_html/simrs/backend/controllers/PasienController.php on line 1223. in /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/u5053707/public_html/simrs/backend/controllers/PasienController.php on line 1223. in /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/u5053707/public_html/simrs/backend/web/index.php(18): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/usr/local/bin:/bin:/usr/bin',
+    'HTTP_ACCEPT' => '*/*',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,id;q=0.8',
+    'HTTP_COOKIE' => '_identity-backend=bcb2244bad61f9ac5c40ac670345e8943608efc970c732593fb579570dc25eafa%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A48%3A%22%5B121%2C%22R-GEE2xwVhZaXTORwCGGBNQNJwVKPWdz%22%2C2592000%5D%22%3B%7D; _csrf-backend=5a3407d6979cdc9bcacfa323689bf04f59823b97f6b6ff8291cef97821644b6ea%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22pGIXv3n0wALYEn6r47e47CVAfdABgrhV%22%3B%7D; ppid-backend=38de5e32b0ac85c5ccbdde5379e7b1b4',
+    'HTTP_HOST' => 'simrs.rsausulaiman.com',
+    'HTTP_REFERER' => 'https://simrs.rsausulaiman.com/dashboard/pasien/4954',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36',
+    'HTTP_SEC_CH_UA' => '" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"',
+    'HTTP_DNT' => '1',
+    'HTTP_X_CSRF_TOKEN' => 'ozdVqElg5XzffMT3IyF9VUI4gPMgaFQBvqsSC4JkhtbTcBzwP1OLTKg9iK5mT0sndg_lxxcrAkDYz1NJ5RbugA==',
+    'HTTP_SEC_CH_UA_MOBILE' => '?0',
+    'HTTP_X_REQUESTED_WITH' => 'XMLHttpRequest',
+    'HTTP_SEC_CH_UA_PLATFORM' => '"Windows"',
+    'HTTP_SEC_FETCH_SITE' => 'same-origin',
+    'HTTP_SEC_FETCH_MODE' => 'cors',
+    'HTTP_SEC_FETCH_DEST' => 'empty',
+    'DOCUMENT_ROOT' => '/home/u5053707/public_html/simrs',
+    'REMOTE_ADDR' => '125.164.22.7',
+    'REMOTE_PORT' => '15437',
+    'SERVER_ADDR' => '153.92.10.54',
+    'SERVER_NAME' => 'simrs.rsausulaiman.com',
+    'SERVER_ADMIN' => 'webmaster@simrs.rsausulaiman.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_SCHEME' => 'https',
+    'REQUEST_URI' => '/dashboard/pasien/listdok?id=1',
+    'REDIRECT_URL' => '/dashboard/pasien/listdok',
+    'REDIRECT_QUERY_STRING' => 'id=1',
+    'REDIRECT_REQUEST_METHOD' => 'GET',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP3',
+    'SSL_PROTOCOL' => 'QUIC',
+    'SSL_CIPHER' => 'TLS_AES_128_GCM_SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/u5053707/public_html/simrs/backend/web/index.php',
+    'QUERY_STRING' => 'id=1',
+    'SCRIPT_URI' => 'https://simrs.rsausulaiman.com/dashboard/pasien/listdok',
+    'SCRIPT_URL' => '/dashboard/pasien/listdok',
+    'SCRIPT_NAME' => '/backend/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/backend/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1639702688.8355829715728759765625,
+    'REQUEST_TIME' => 1639702688,
+    'argv' => [
+        'id=1',
+    ],
+    'argc' => 1,
+]
+[17-Dec-2021 00:59:06 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:59:10 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:59:19 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 00:59:26 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 01:00:21 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 01:01:13 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35
+[17-Dec-2021 01:01:15 UTC] PHP Fatal error:  During class fetch: Uncaught yii\base\ErrorException: Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/ColumnTrait.php:273
+Stack trace:
+#0 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): yii\base\ErrorHandler->handleError(8192, 'Unparenthesized...', '/home/u5053707/...', 273, Array)
+#1 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include()
+#2 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Col...')
+#3 /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php(35): spl_autoload_call('kartik\\grid\\Col...')
+#4 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/u5053707/...')
+#5 [internal function]: yii\BaseYii::autoload('kartik\\grid\\Ser...')
+#6 [internal function]: spl_autoload_call('kartik\\grid\\Ser...')
+#7 /home/u5053707/public_html/simrs/vendor/yiisoft/yii2/di/Containe in /home/u5053707/public_html/simrs/vendor/kartik-v/yii2-grid/src/SerialColumn.php on line 35

@@ -1,0 +1,9 @@
+Berdasarkan peraturan mentri kesehatan republik indonesia no 82 tahun 2013 di jelaskan bahwa setiap rumah sakit wajib menyelenggarakan SIMRS atau sistim informasi manajemen rumah sakit.
+Khususnya rumah sakit sulaiman sudah mempunyai SIMRS karna di rumah sakit sulaiman sudah terdapat.
+Pelayanan umum ,kegiatan adminitratif dan komunikasi terhadap masyarakat .
+Sistim informasi manajemen rumah sakit yg di singkat SIMRS adalah suatu sistim teknologi informasi yang mengintegrasikan seluruh alur proses pelayanan rumah sakit dalam bentuk jaringan kordinasi pelaporan  dan prosedur adminitrasi secara *tranparan ,akuntabel*, tepat & akurat ,merupakan bagian dari sistim informasi rumah sakit lanud sulaiman.
+Rumah Sakit Lanud sulaiman telah melaksanakan amanah regulasi tentang SIMRS tersebut dengan instalasi SIMAMED singkatan dari Sistem Informasi Manajemen Medis. SIMAMED memilki kemampuan pengelolaan data pasien mulai dari entri (masuk) pendaftaran, baik itu di IGD (Instalasi Gawat Darurat), *Rawat Jalan, Rawat Inap, Labolatorium,Rekam medis , Radiologi* dan juga  pengelolaan selama perawatan sampai dengan kesembuhan atau keluar (exit) dari Rumah Sakit.
+
+*SIMAMED ini merupakan sebuah sistem berbasis web yang sudah terintegrasi dengan aplkasi Mobile JKN & Vclaim milik BPJS kesehatan , diharapkan dengan integrasi ini bisa meningkatkan kualitas pelayanan terhadap pasien, dan juga diharapkan dengan adanya SIMAMED yang terintegrasi ini bisa menjadi sarana transparansi data  yang bisa di tampilkan kepada publik seperti ketersediaan tempat tidur , jadwal operasi , pendaftaran online dll.*
+
+*Kini  Sistem Informasi Manajemen Rumah Sakit berbasis web yang terintegrasi dalam tahap pengembangan lanjutan oleh tim IT Rs Sulaiman terkait dengan penambahan fitur-fitur yang nantinya bisa membantu dalam meningkatkan pelayanan dan juga pengelolaan managemen yang tertib adminitrasi di rumah sakit .*

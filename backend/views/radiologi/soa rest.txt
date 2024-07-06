@@ -1,0 +1,26 @@
+Rest Api SOA Sales:
+Headers (IdAPP : 2211442),
+
+Method ( GET )
+	Transaksi :
+		Data statistik Transaksi Berdasarkan rentan tanggal- "http://fikrirama.xyz/sales/api/transaksi?start= (Tanggal dengan format "yyyy-mm-dd") &end =(Tanggal dengan format "yyyy-mm-dd")"
+		Data Transaksi Harian	-"http://fikrirama.xyz/sales/api/transaksi-day?day= (Tanggal dengan format "yyyy-mm-dd")"
+	Barang :
+		 Data Barang - http://fikrirama.xyz/sales/api/,
+		 Data Kategori Barang - http://fikrirama.xyz/sales/api/kategori, 
+		 Barang By Kode Barang - http://fikrirama.xyz/sales/api/barang-by-kode?kode= (Kode Barang),
+		 Barang By Kategori Barang - http://fikrirama.xyz/sales/api/barang-by-kategori?kat= (Kategori Barang),
+	Barang Mutasi :
+		 Barang Mutasi - http://fikrirama.xyz/sales/api/mutasi-barang?start=(Tanggal Awal)&end=(Tanggal Akhir)&mutasi=(Jenis Mutasi)&kode=(Kode Barang),
+		 Barang Mutasi Jenis - http://fikrirama.xyz/sales/api/mutasi-jenis
+	Barang Kategori :
+		 Kategori - http://fikrirama.xyz/sales/api/kategori,
+		 Kategori by id - http://fikrirama.xyz/sales/api/kategori-id?id= (Id Kategori),
+
+	Barang Request :
+		 Data Barang Request - http://fikrirama.xyz/sales/api/barang-request?status= (1.Draff , 2.Permintaan , 3.Disetujui , 4.Ditolak , 5.Selesai),
+		 Data Barang Request Deail - http://fikrirama.xyz/sales/api/barang-request-detail?kode= (Kode Permintaan Barang),
+
+Method ( POST )
+	Barang :
+		Input Barang - http://fikrirama.xyz/sales/api/input-barang

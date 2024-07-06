@@ -1,0 +1,28 @@
+html,body {height: 100%;font-size:12px;background-color:#fff;font-family:Tahoma}
+.olab{width:100%;}
+.olab th{font-size:12px;height:20px;}
+.olab td{
+	font-size:12px;
+	text-indent:20px;
+	 border-left:1px solid;
+	 border-right:1px solid;
+	 padding:7px;
+}
+.olab table{
+    width: 100%;
+    border:1px solid;
+}
+.header-lab{width:100%;  float:left;}
+.body-lab{width:100%;  float:left; border-bottom: 2px solid;}
+.body-lab table tr td{font-size: 15px; height:10px;}
+.header-lab-logo{width:40%;  float: right;}
+.header-lab-logo img{width:100%; }
+.header-lab-judul-au{width:70%; float: left;border-bottom: 1px solid;  font-size:13px;}
+.header-lab-judul-pasien{width:100%; float: left; font-size:15px;	}
+.header-lab-judul-pasien td{font-size:18px ;}
+.nolborder{border: 1px solid #000; line-height: 0px;}
+.header-lab-judul{width:50%; float: left; text-align:center; }
+.lab-body-hasil tr:nth-child(even) {background-color: #f2f2f2;}
+.lab-body-hasil th {
+    text-align: left;
+}

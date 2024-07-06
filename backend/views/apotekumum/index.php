@@ -1,0 +1,40 @@
+<?php
+
+use yii\helpers\Html;
+use yii\grid\GridView;
+
+/* @var $this yii\web\View */
+/* @var $searchModel common\models\ApotekumumSearch */
+/* @var $dataProvider yii\data\ActiveDataProvider */
+
+$this->title = 'Pengeluaran Obat untuk pasien yanmas';
+$this->params['breadcrumbs'][] = $this->title;
+?>
+<div class="apotekumum-index">
+<div class="box box-body">
+
+    <h1><?= Html::encode($this->title) ?></h1>
+    <?php // echo $this->render('_search', ['model' => $searchModel]); ?>
+
+    <p>
+        <?= Html::a('Create Apotekumum', ['create'], ['class' => 'btn btn-success']) ?>
+    </p>
+
+    <?= GridView::widget([
+        'dataProvider' => $dataProvider,
+        'filterModel' => $searchModel,
+        'columns' => [
+            ['class' => 'yii\grid\SerialColumn'],
+
+            'id',
+            'idtrx',
+            'nama',
+            'tgltrx',
+            'total',
+            //'status',
+
+            ['class' => 'yii\grid\ActionColumn'],
+        ],
+    ]); ?>
+</div>
+</div>
